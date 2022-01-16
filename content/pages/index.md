@@ -20,7 +20,7 @@ sections:
         iconPosition: right
     media:
       type: ImageBlock
-      url: /images/hero.png
+      url: /images/Screenshot 2022-01-13 11.53.06 AM (1).png
       altText: Image alt text
       caption: Image caption
     styles:
